@@ -1,1 +1,3 @@
 audio snippets/snippets
+__pycache__/
+.vscode/
